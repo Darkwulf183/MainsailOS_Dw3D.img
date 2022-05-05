@@ -1,4 +1,4 @@
-# This repository is a pre configured Variant of MainsailOS Beta!!!
+# This repository is a pre configured Variant of MainsailOS 2.1.2 NEW by Darkwulf3D!!!
 
 ## Please Download and unzip it. Flash it to SD with Raspberry Pi Imager or Rufus.
 
