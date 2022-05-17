@@ -11,7 +11,7 @@ This file disappears from this folder after the successful setup, as it is copie
 Timelapse and Kiauh pre Installed !!!
 
 <img align="right" width=250 src="Pictures/Mainsail_Beta_Main.JPG" />
-<img align="middle" width=250 src="Pictures/Kiauh.png" />
+<img align="center" width=250 src="Pictures/Kiauh.png" />
 
 <img align="Left" width=250 src="Pictures/Mainsail_Infos.JPG" />
 
@@ -20,7 +20,7 @@ Timelapse and Kiauh pre Installed !!!
 Images for Beta Image:
 
 <img align="right-bottom" width=250 src="Pictures/Mainsail_Beta_Main.JPG" />
-<img align="middle-bottom" width=250 src="Pictures/Kiauh.png" />
+<img align="center-bottom" width=250 src="Pictures/Kiauh.png" />
 
 <img align="Left-bottom" width=250 src="Pictures/Mainsail_Beta_Infos.JPG" />
 
