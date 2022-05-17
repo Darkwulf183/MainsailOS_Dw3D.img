@@ -17,9 +17,9 @@ Timelapse and Kiauh pre Installed !!!
 
 Images for Beta Image:
 
-<img align="right" width=250 src="Pictures/Mainsail_Beta_Main.JPG" />
-<img align="middle" width=250 src="Pictures/Kiauh.png" />
+<img align="right-bottom" width=250 src="Pictures/Mainsail_Beta_Main.JPG" />
+<img align="middle-bottom" width=250 src="Pictures/Kiauh.png" />
 
-<img align="Left" width=250 src="Pictures/Mainsail_Beta_Infos.JPG" />
+<img align="Left-bottom" width=250 src="Pictures/Mainsail_Beta_Infos.JPG" />
 
 
