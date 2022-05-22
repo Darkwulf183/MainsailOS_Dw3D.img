@@ -5,9 +5,11 @@ Für die, die es nachinstallieren möchten allerdings gilt:
 Als Erstes das Backup Script in den Ordner /home/pi zu kopieren.
 Dieses erledigt Ihr am besten mit Winscp, Filezilla oder ähnlichem. Erfahrene Nutzer können die Datei auch anlegen und die Befehle reinkopieren.
 Nachdem ihr das Script reinkopiert habt, müsst Ihr es ausführbar machen mit:
+
 ´´´
 $ chmod +x Backup.sh
 ´´´ 
+
 Da wir bei Klipper so wenig wie möglich im Root anlegen wollen, ist dieser Befehl ohne Sudo möglich und auch erforderlich, um die Rechte 
 Vergabe von Klipper Mainsail usw. nicht zu verletzen und dass das Script dadurch nicht ausgeführt werden kann.
 
