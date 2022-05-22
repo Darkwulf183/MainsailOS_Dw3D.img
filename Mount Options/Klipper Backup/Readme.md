@@ -57,7 +57,7 @@ Hierzu muss allerdings das Kiauh Bash script noch nachinstalliert werden. Dieses
 
 Wir öffnen also jetzt zuerst Kiauh:
 ```
-$ ./kiauh/kiauh
+$ ./kiauh/kiauh.sh
 ```
 dort angekommen wechseln wir auf Menü 4 Advanced.
 Dann auf den Punkt 9 Shell Command.
