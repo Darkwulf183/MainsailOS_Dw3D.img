@@ -20,9 +20,7 @@ log_fail.log
 log_ready.log 
 
 Diese können auch über die Oberfläche in Mainsail angelegt werden.
-
 Als Nächstes gehen wir wieder über die Konsole weiter vor.
-
 Ihr öffnet im Verzeichnis /home/pi die Backup.sh mit dem Befehl:
 ```
 $ nano Backup.sh
