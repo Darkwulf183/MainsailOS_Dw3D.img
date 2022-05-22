@@ -15,10 +15,10 @@ Als Nächstes müsst ihr in /home/pi/klipper_config einen Ordner anlegen. Diese 
 In Mainsail auf Maschine dann dort wo auch die printer.cfg liegt auf Verzeichnis Erstellen klicken und einen Ordner namens Backuplogs anlegen.
 (Diese Schritte gelten auch für das fertige Image, da Ich aus im Video erläuterten Gründen diesen nicht angelegt habe.)
 In selbigen Ordner müssen zwei Log Dateien.
-
+```
 log_fail.log
 log_ready.log 
-
+```
 Diese können auch über die Oberfläche in Mainsail angelegt werden.
 Als Nächstes gehen wir wieder über die Konsole weiter vor.
 Ihr öffnet im Verzeichnis /home/pi die Backup.sh mit dem Befehl:
